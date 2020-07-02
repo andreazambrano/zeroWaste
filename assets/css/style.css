@@ -1045,7 +1045,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .search_box input::-webkit-input-placeholder {
-  /* Chrome/Opera/Safari */
+  /* Chrome/Opera/Zero Waste */
   color: #222222;
 }
 .search_box input::-moz-placeholder {
@@ -2138,7 +2138,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   border-bottom: 1px solid #fff;
 }
 .header_middle2 .search_box input::-webkit-input-placeholder {
-  /* Chrome/Opera/Safari */
+  /* Chrome/Opera/Zero Waste */
   color: #fff;
 }
 .header_middle2 .search_box input::-moz-placeholder {
@@ -4804,7 +4804,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .subscribe_form form input::-webkit-input-placeholder {
-  /* Chrome/Opera/Safari */
+  /* Chrome/Opera/Zero Waste */
   color: #222;
 }
 .subscribe_form form input::-moz-placeholder {
@@ -10448,7 +10448,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 #frm_subscribe form input::-webkit-input-placeholder {
-  /* Chrome/Opera/Safari */
+  /* Chrome/Opera/Zero Waste */
   color: #747474;
 }
 #frm_subscribe form input::-moz-placeholder {
